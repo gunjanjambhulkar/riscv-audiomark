@@ -1,0 +1,6 @@
+*.elf
+run.log
+*.o
+*.a
+*.d
+*.out
