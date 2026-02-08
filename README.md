@@ -22,12 +22,11 @@ Run the program using Spike with the vector extension enabled:
 
 spike --isa=rv64gcv_zicntr pk ./q15_axpy.elf
 
-## Makefile Usage (optional)
+Makefile Usage (optional)
 
 A simple Makefile is provided for convenience.
 
 Build:
-```bash
 make
 
 Run on Spike:
